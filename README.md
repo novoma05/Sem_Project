@@ -1,7 +1,8 @@
 # TD projekt
 semestrální projekt
 - 2D tower defence hra s pohledem zvrchu psaná v Unity C#
-- hra je ve vývoji nějakou dobu hratelná verze v repozitáři -- https://github.com/novoma05/MatProject
+
+Spuštění -- pracuje se
 
 Cíle:
  - nove typy vezi
