@@ -2,9 +2,10 @@
 semestrální projekt
 - 2D tower defence hra s pohledem zvrchu psaná v Unity C#
 
-Spuštění -- pracuje se
+# Spuštění 
+-- pracuje se
 
-Cíle:
+# Cíle:
  - nove typy vezi
 
  - nove typy nepratel
